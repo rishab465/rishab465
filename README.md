@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishab465
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me @rishab5_12
 
 <!---
